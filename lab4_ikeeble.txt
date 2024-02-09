@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: ikeeble
+    Linux system name: ubuntu
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/ikeeble/ops445/lab4
+    Start at: Fri Feb  9 14:00:36 2024
+=================================================================
